@@ -17,7 +17,7 @@ export default function ConfirmationModal({
 
   return (
     <div className="fixed inset-0 bg-gray-800 bg-opacity-50 flex items-center justify-center z-50">
-      <div className="bg-white p-6 rounded-[22px] w-1/3">
+      <div className="bg-white p-6 rounded-[22px] w-[320px]">
         <h2 className="text-lg text-[#444444] font-bold mb-4">{message}</h2>
         <div className="flex justify-center space-x-4">
           <button
