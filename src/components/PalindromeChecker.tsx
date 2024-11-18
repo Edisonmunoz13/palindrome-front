@@ -53,7 +53,7 @@ export default function PalindromeChecker({
         <div className="mt-8 w-full bg-gray-200 pb-8 rounded-[30px] text-[#444444] px-2">
           <h3 className="text-lg font-semibold my-3">Palindrome History</h3>
           <div className="flex flex-col items-center justify-center">
-            <div className="w-full flex flex-row justify-between px-12 font-bold py-1">
+            <div className="w-full flex flex-row justify-between px-8 font-bold py-1">
               <h3>Phrases</h3>
               <h3>It is palindrome?</h3>
             </div>
